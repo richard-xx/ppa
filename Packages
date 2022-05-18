@@ -1,0 +1,54 @@
+Package: depthai
+Version: 2.15.4
+Architecture: armhf
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 19259
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.15.4_armhf.deb
+Size: 10344402
+MD5sum: 840879935b08e2bdba340911cb7122a0
+SHA1: 7421b39f560581e85878441d1354014fffff0522
+SHA256: a2147964372ade47949cb397f27815bc762969168f9ed1ba4d4bed225216f28a
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI C++ Library
+
+Package: depthai
+Version: 2.15.4
+Architecture: arm64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 22052
+Pre-Depends: libusb-1.0-0-dev
+Depends: udev
+Recommends: build-essential
+Filename: ./depthai_2.15.4_aarch64.deb
+Size: 10730274
+MD5sum: 81e5cc0b8b37654634b0dc9afa57d073
+SHA1: 16842ceef5a5daac58793fa0f4942de691046277
+SHA256: 67a3dedf38aefaf8fd6cfea54b624900ebc0e089f310436cd163b36da88898b3
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI C++ Library
+
+Package: depthai
+Version: 2.15.4
+Architecture: amd64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 26962
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.15.4_amd64.deb
+Size: 11876820
+MD5sum: 7935b86278ea80decaa02738a35981bf
+SHA1: b2b2f814065af44f62be9ca385be5c4af2f3932d
+SHA256: 9f03434edc0143aa848968f706cfb5e28a2590a8ee74e5103802874d39de9001
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI C++ Library
+
