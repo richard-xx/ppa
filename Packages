@@ -6,7 +6,7 @@ Installed-Size: 19259
 Pre-Depends: udev
 Depends: libusb-1.0-0-dev
 Recommends: build-essential
-Filename: depthai/depthai_2.15.4_armhf.deb
+Filename: ./depthai/depthai_2.15.4_armhf.deb
 Size: 10344402
 MD5sum: 840879935b08e2bdba340911cb7122a0
 SHA1: 7421b39f560581e85878441d1354014fffff0522
@@ -24,7 +24,7 @@ Installed-Size: 22052
 Pre-Depends: libusb-1.0-0-dev
 Depends: udev
 Recommends: build-essential
-Filename: depthai/depthai_2.15.4_aarch64.deb
+Filename: ./depthai/depthai_2.15.4_aarch64.deb
 Size: 10730274
 MD5sum: 81e5cc0b8b37654634b0dc9afa57d073
 SHA1: 16842ceef5a5daac58793fa0f4942de691046277
@@ -42,7 +42,7 @@ Installed-Size: 26962
 Pre-Depends: udev
 Depends: libusb-1.0-0-dev
 Recommends: build-essential
-Filename: depthai/depthai_2.15.4_amd64.deb
+Filename: ./depthai/depthai_2.15.4_amd64.deb
 Size: 11876820
 MD5sum: 7935b86278ea80decaa02738a35981bf
 SHA1: b2b2f814065af44f62be9ca385be5c4af2f3932d
