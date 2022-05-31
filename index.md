@@ -2,11 +2,13 @@
 
 ## Contains
 
-+ Depthai
++ Depthai amd64/arm64/armhf
 
 ## Installation
 
 ```shell
-sudo wget -O - https://richard-xx.github.io/ppa/depthai/KEY.gpg | sudo apt-key add -
-sudo wget -O /etc/apt/sources.list.d/depthai.list https://richard-xx.github.io/ppa/depthai/depthai-ppa.list
+sudo wget -O - https://richard-xx.github.io/ppa/depthai/KEY.gpg | sudo tee /etc/apt/trusted.gpg.d/richard_depthai.asc
+sudo wget -O /etc/apt/sources.list.d/depthai-ppa.list https://richard-xx.github.io/ppa/depthai/depthai-ppa.list
+sudo apt update
+sudo apt install depthai
 ```
