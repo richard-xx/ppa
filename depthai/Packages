@@ -110,15 +110,14 @@ Package: depthai
 Version: 2.16.0
 Architecture: armhf
 Maintainer: Richard <richard@arducam.com>
-Installed-Size: 20858
+Installed-Size: 20509
 Pre-Depends: udev
-Depends: libusb-1.0-0-dev
 Recommends: build-essential
 Filename: ./depthai_2.16.0_armhf.deb
-Size: 10595942
-MD5sum: db2c79efef7cef79d634bb51cc30dcac
-SHA1: 60cb046b17bd22b4a436a81ca9ed25c0418dedf1
-SHA256: 08d1c2dd855d244b97a23f0e569f240b720a678353d1e02927390ca705c19487
+Size: 10757906
+MD5sum: 8233cbbd911b227d66c32ba8bdf124de
+SHA1: 67e638b771ec554908a2afceff43fc1710252a32
+SHA256: aec62e654520aae1f49d85a4300dc400b788517905b93cb9d2f876926d411ff7
 Section: devel
 Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
@@ -128,15 +127,14 @@ Package: depthai
 Version: 2.16.0
 Architecture: amd64
 Maintainer: Richard <richard@arducam.com>
-Installed-Size: 28645
+Installed-Size: 29216
 Pre-Depends: udev
-Depends: libusb-1.0-0-dev
 Recommends: build-essential
 Filename: ./depthai_2.16.0_amd64.deb
-Size: 12142264
-MD5sum: 2717e4286861d7367121bffaf093a9fb
-SHA1: c75db658e059c16cc3bf95c40da25f744131fecf
-SHA256: ae3d453a824d8bcde82a0d29beae14a9ffbdeb712a265333dcd1d94eef4aaec3
+Size: 12317430
+MD5sum: 8469d4a49d75bb6f237487b1fc283c7a
+SHA1: 89a8af89549078b31cbaece1d5abbf326dbb5bf4
+SHA256: 3552d3a80fbdc66d40013057117bd9cb329b319f869447b6923e0faf20ccb5cc
 Section: devel
 Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
@@ -146,15 +144,14 @@ Package: depthai
 Version: 2.16.0
 Architecture: arm64
 Maintainer: Richard <richard@arducam.com>
-Installed-Size: 23169
+Installed-Size: 23945
 Pre-Depends: udev
-Depends: libusb-1.0-0-dev
 Recommends: build-essential
 Filename: ./depthai_2.16.0_arm64.deb
-Size: 10726284
-MD5sum: 1f69e6992c9cde94a98e4003d0167064
-SHA1: 2b3b7b39958271383d114019eb945b84a4002cdb
-SHA256: 60b71e49889beafbebcc11c7c00a13600dae576a173bce8806a3682d131c8f4b
+Size: 11005706
+MD5sum: c211b8c86d18326c59bf71835c61065e
+SHA1: 598418fe287ba2f4ea9b985035a313922b1c529f
+SHA256: 50b50aa722de289ae93160cbc9509ed10b1b11d3366271bb8ebe5bd17d964b26
 Section: devel
 Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
