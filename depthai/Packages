@@ -214,3 +214,57 @@ Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
 Description: DepthAI C++ Library
 
+Package: depthai
+Version: 2.17.2
+Architecture: armhf
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 20533
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.17.2_armhf.deb
+Size: 10897722
+MD5sum: b9728ef0ec700edb5b544fea55d543ad
+SHA1: 90a03f5589e355f4f34ed9090dd75b1e8e797506
+SHA256: dead071a89360b5e0bd93312167f9e8a1ecc8c7de4bc72819923df977b55a2c7
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.17.2
+Architecture: amd64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 29178
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.17.2_amd64.deb
+Size: 12399054
+MD5sum: 70c219973f59fcd3475fe206c2c9cda6
+SHA1: eb57f7f88eff657d8f8a7e477a56fece44231958
+SHA256: 1c55cb02797b1e1d7610daf5148d7e1f01ffbac11f20a285240cb82694ef3f2b
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.17.2
+Architecture: arm64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 23936
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.17.2_arm64.deb
+Size: 11130224
+MD5sum: 15f0dda21f97b7a88eaee6087703ad9a
+SHA1: d2938659cbcae57dcd6c1b05ab94d3a98281b26a
+SHA256: 7bbe2247c643584f8781e36a77195ef0b59d72c5bcab5fc9d27ff1c4ec5a3f29
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
