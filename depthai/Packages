@@ -592,3 +592,57 @@ Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
 Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
 
+Package: depthai
+Version: 2.20.2
+Architecture: armhf
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 21949
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.20.2_armhf.deb
+Size: 10628792
+MD5sum: cdb364deda426b3f42d1d166f36e4739
+SHA1: bd2b55b47a0f167e9bdd61ab86d120a481c0c959
+SHA256: 3318690049d62b0356be4578cf669f2ecec6703c118bb25bec6e9a510e842441
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.20.2
+Architecture: amd64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 29282
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.20.2_amd64.deb
+Size: 12324550
+MD5sum: 8821ba41acdefbae813622714f814995
+SHA1: 91bfdddbda963757e7776f574106b89876f3141e
+SHA256: 98e11c392292aa11109b920d4594cb2a0272390e33c8850ac76f0fd1b83030c6
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.20.2
+Architecture: arm64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 24038
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.20.2_arm64.deb
+Size: 11048400
+MD5sum: 92cc27bc35fdbe7af789e880e0a43bb7
+SHA1: 6115ab5c5056a85a550ae4afb4fc4b7a37dd4e72
+SHA256: 9e2ba7ff3409742290b1ef518e359e12e13837f78c8aa95fc24288d1fd9d5440
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
