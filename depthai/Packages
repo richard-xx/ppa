@@ -1024,3 +1024,57 @@ Priority: optional
 Homepage: https://github.com/luxonis/depthai-core
 Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
 
+Package: depthai
+Version: 2.26.0
+Architecture: amd64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 29815
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.26.0_amd64.deb
+Size: 12882198
+MD5sum: 7bc63a6cc247833dcae3d8c37ab83888
+SHA1: 0a5e70c0521249cfc6be781618112af876604573
+SHA256: 33b73fe441649a6a15b4cbbc744ea4055237ecf154618cc0c479e6401cf82d4d
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.26.0
+Architecture: armhf
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 22992
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.26.0_armhf.deb
+Size: 11125634
+MD5sum: 4678d1605e3f85f80b8dec65ece2bce7
+SHA1: 0058459a2e80759f950c8873fff8dfc25c47f610
+SHA256: 4c6797d28b1ce44639b3a36283d10574ee658f387dae2b3275be790d0c98a435
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
+Package: depthai
+Version: 2.26.0
+Architecture: arm64
+Maintainer: Richard <richard@arducam.com>
+Installed-Size: 24800
+Pre-Depends: udev
+Depends: libusb-1.0-0-dev
+Recommends: build-essential
+Filename: ./depthai_2.26.0_arm64.deb
+Size: 11610202
+MD5sum: afe4cc29d82fd60d366a1d5917832d66
+SHA1: 1b91084a96cb64dfd95d35dc117f0f5ff991b029
+SHA256: ebe9988dd95eaf6e720fa23112067d69d42cf04db91f012208f30092ba8ad0dd
+Section: devel
+Priority: optional
+Homepage: https://github.com/luxonis/depthai-core
+Description: DepthAI core is a C++ library which comes with firmware and an API to interact with OAK Platform
+
